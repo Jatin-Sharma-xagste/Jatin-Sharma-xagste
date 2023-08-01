@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/abb423f3f7b0a85a1b50304474b34a252afee4988c7b90f381074c75a9618284/68747470733a2f2f6d656469612e74656e6f722e636f6d2f533766427a7055596a6f4141414141642f62616e6e65722e676966)]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)]
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width ="400" src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.webp">
