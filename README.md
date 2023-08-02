@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width ="400" src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.webp">
 
-- 💬 Ask me about **React, Javascript, MongoDB, C++**
+- 💬 Ask me about **React, Javascript, Typescript, MongoDB, C++**
 
 - 📫 How to reach me **jatinsharma7175@gmail.com**
 
