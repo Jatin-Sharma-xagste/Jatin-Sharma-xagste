@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width ="400" src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.webp">
