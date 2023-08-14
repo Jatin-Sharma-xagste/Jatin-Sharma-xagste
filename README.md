@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1gKTkmHfUh9hxSS5F_kOkBj_lO7bUmSGE/edit?usp=drivesdk&ouid=111202640786409389985&rtpof=true&sd=true](https://docs.google.com/document/d/1gKTkmHfUh9hxSS5F_kOkBj_lO7bUmSGE/edit?usp=drivesdk&ouid=111202640786409389985&rtpof=true&sd=true)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
